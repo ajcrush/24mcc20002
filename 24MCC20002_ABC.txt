@@ -1,2 +1,1 @@
-This is 24MCC20002_ABC.txt
-This is an updated line in UID branch.
+This is an update from 24MCC20002 branch.
